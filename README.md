@@ -31,7 +31,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <h2>💼 Experience</h2>
  <h3>Freelance Web Developer | August 2023 – Present | E.Q. Soft Solutions, (Remote)
 </h3>

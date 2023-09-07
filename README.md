@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Hi, I'm Kunal Preet 👋</h1>
   <p>Innovative developer with over 2 years of experience in software engineering and mobile app development. Expert at implementing new technologies to enhance efficiency. Translated market insights into application features with proficiency. Quick to grasp and apply complex technology concepts. Ready to drive innovation and excellence in software and mobile app development.</p>
   <p><em>Passionate about crafting innovative mobile apps and exploring new technologies.</em></p>
@@ -6,7 +6,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <h2>🚀 Skills</h2>
   <p>Programming Languages: Typescript, Kotlin, Java, Swift, Objective-C, JavaScript, PHP, C++, C.</p>
   <p>Web Technologies: Proficient in JavaScript, HTML5, CSS3, HTML, CSS, and experienced with ReactJS.</p>
@@ -26,7 +26,7 @@
   <h2>🧪 Testing & Quality Assurance</h2>
   <p>Proficient in using industry-standard testing methodologies to ensure software quality and improve performance.</p>
 
-  <!-- Add more sections as needed -->
+ 
 </div>
 
 <br>
@@ -52,17 +52,13 @@
   <h3>Software Developer | Jan 2019 – Dec 2020 | OST Electronics Ltd., Chandigarh, IN</h3>
   <ul>
     <li>Led a software development team, overseeing successful project execution with a 100% success rate.</li>
-    <li>Developed and maintained code according to industry best practices, ensuring high-quality and maintainable software.</li>
-    <!-- Add more bullet points -->
+    <li>Developed and maintained code according to industry best practices, ensuring high-quality and maintainable software.</li>   
   </ul>
-
- 
-    <!-- Add more bullet points -->
 </div>
 
 <br>
 
-<div align="center">
+<div align="left">
   <h2>🚀 Projects</h2>
   <p>•	Created an impactful online presence for K.K.INFORMATICA by developing a captivating website using WordPress, leading to a 50% rise in client engagement and lead generation.</p>
   <p>Developed a messaging app named "ECHO ME NOW," showcasing proficiency in Android development.</p>
@@ -76,7 +72,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <h2>🌐 Connect with Me</h2>
   <p>Feel free to connect with me on <a href="https://www.linkedin.com/in/kunal-preet-393211250/">LinkedIn</a>
   <p><img src="https://komarev.com/ghpvc/?username=Kunal-Preet" alt="Profile Views"></p>

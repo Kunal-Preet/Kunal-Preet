@@ -49,14 +49,14 @@
 <li>Collaborated remotely in a cross-functional team, contributing to a 20% reduction in app development time.</li>
 <li>Executed marketing strategies, resulting in a 30% increase in app downloads during the internship period.
 </li></ul>
+  
   <h3>Software Developer | January 2019 – December 2020 | OST Electronics Ltd., Chandigarh, IN</h3>
   <ul>
     <li>Engineered, coded, thoroughly tested, and debugged software applications, achieving a remarkable 98% adherence to quality benchmarks.</li>
 <li>Drove cross-functional projects within agile development environments, achieving an impressive 20% reduction in project delivery times.</li>
 <li>Conceptualized and developed intuitive interfaces, resulting in a 50% reduction in user complexity and a subsequent 75% surge in user satisfaction.</li>
 <li>Overhauled legacy code bases, modernizing all to meet cutting-edge standards and yielding an outstanding 60% reduction in operating costs.</li>
-<li>Collaborated seamlessly across the entire systems development lifecycle, from requirement gathering to production releases, ensuring an impeccable 95% project success rate.
-</li>   
+<li>Collaborated seamlessly across the entire systems development lifecycle, from requirement gathering to production releases, ensuring an impeccable 95% project success rate.</li>   
   </ul>
 </div>
 
